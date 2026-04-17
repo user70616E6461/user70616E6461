@@ -77,10 +77,11 @@ Status:   Active development
 ---
 ## 🔴 Research
 ```
-[ ACTIVE ]   CyberAI — AI-native pentest platform
-[ ACTIVE ]   Multi-agent trust & safety protocol design
-[ ACTIVE ]   MAS-Sentry-Toolkit — ABFP behavioral fingerprinting
-[ BUILDING ] Toolchain: phantom-grid → phantom-intel → reality-probe → CyberAI
+[ ACTIVE ]   phantom-grid — OOB detection & callback capture
+[ ACTIVE ]   phantom-intel — CVE threat intelligence pipeline
+[ ACTIVE ]   reality-probe — TLS analyzer & XTLS Reality config tool
+[ BUILDING ] CyberAI — AI-native pentest platform
+[ BUILDING ] MAS-Sentry-Toolkit — ABFP behavioral fingerprinting
 [ STUDYING ] Prompt injection · agent hijacking · LLM attack surface analysis
 ```
 ---
