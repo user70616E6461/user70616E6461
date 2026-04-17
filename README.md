@@ -50,7 +50,7 @@ Stack:    Python · Flask · cryptography
 Use case: XTLS Reality SNI selection · proxy config generation
 ```
 ---
-### 🛡️ [MAS-Sentry-Toolkit](https://github.com/user70616E6461/mas-sentry-toolkit)
+### 🛡️ [MAS-Sentry-Toolkit](https://github.com/user70616E6461/mas-sentry-toolkit) `[IN PROGRESS]`
 > Multi-Agent System Security Auditing Framework
 Professional research framework for auditing MAS security.
 Introduces **ABFP** (Agent Behavioral Fingerprinting Protocol) —
